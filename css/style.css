@@ -1,4 +1,9 @@
-
+.card{
+    width:100%;
+     align-items: center;
+    justify-content: center;
+    margin:auto;
+}
 .nav-item a:hover{
     
     background-color:white;
